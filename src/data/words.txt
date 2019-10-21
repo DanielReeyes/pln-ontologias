@@ -1,1 +1,1 @@
-products, payments, consumer, rent, people
+fintech,startup,products,consumer,services,instituitions,business model,credit,contracts,credit contracts,investments,loyalty points,peer-to-peer,crowdfunding,stock trading,stock,trading,blockchain,wholesale,payment,rent,people,technology,big data,social,social computing,financial,lending,insurance,capital,NFC,transaction,payment transaction,Nubank,Citicorp,Apple,Fidor bank,bank,wallet,pay,wealth,management

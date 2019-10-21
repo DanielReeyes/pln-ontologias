@@ -1,0 +1,2092 @@
+>>> Getting Synonyms from fintech
+>>> List synsets for fintech
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from fintech <<<<<<<<<<<< 
+
+>>> Getting Antonyms from fintech
+>>> List synsets for fintech
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from startup
+>>> List synsets for startup
+>>>>>> Synset found: the act of setting in operation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: repeated shutdowns and startups are expensive
+>>>>>>>>> Found synonym startup
+>>>>>> Synset found: the act of starting a new operation or practice
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he opposed the inauguration of fluoridation
+>>>>>>>>> Found synonym inauguration
+>>>>>>>>> Found synonym startup
+>>>>>>>>>>> End of function getSynonym from startup <<<<<<<<<<<< 
+
+>>> Getting Antonyms from startup
+>>> List synsets for startup
+>>>>>> Synset found: the act of setting in operation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the act of starting a new operation or practice
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from products
+>>> List synsets for products
+>>>>>> Synset found: commodities offered for sale
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: good business depends on having good merchandise
+>>>>>>>>> Found synonym merchandise
+>>>>>>>>> Found synonym ware
+>>>>>>>>> Found synonym product
+>>>>>> Synset found: an artifact that has been created by someone or some process
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: they improve their product every year
+>>>>>>>>> Found synonym product
+>>>>>>>>> Found synonym production
+>>>>>> Synset found: a quantity obtained by multiplication
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the product of 2 and 3 is 6
+>>>>>>>>> Found synonym product
+>>>>>>>>> Found synonym mathematical_product
+>>>>>> Synset found: a chemical substance formed as a result of a chemical reaction
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: a product of lime and nitric acid
+>>>>>>>>> Found synonym product
+>>>>>> Synset found: a consequence of someone's efforts or of a particular set of circumstances
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: skill is the product of hours of practice
+>>>>>>>>> Found synonym product
+>>>>>> Synset found: the set of elements common to two or more sets
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the set of red hats is the intersection of the set of hats and the set of red things
+>>>>>>>>> Found synonym intersection
+>>>>>>>>> Found synonym product
+>>>>>>>>> Found synonym Cartesian_product
+>>>>>>>>>>> End of function getSynonym from products <<<<<<<<<<<< 
+
+>>> Getting Antonyms from products
+>>> List synsets for products
+>>>>>> Synset found: commodities offered for sale
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: an artifact that has been created by someone or some process
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a quantity obtained by multiplication
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a chemical substance formed as a result of a chemical reaction
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a consequence of someone's efforts or of a particular set of circumstances
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the set of elements common to two or more sets
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from consumer
+>>> List synsets for consumer
+>>>>>> Synset found: a person who uses goods or services
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym consumer
+>>>>>>>>>>> End of function getSynonym from consumer <<<<<<<<<<<< 
+
+>>> Getting Antonyms from consumer
+>>> List synsets for consumer
+>>>>>> Synset found: a person who uses goods or services
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from services
+>>> List synsets for services
+>>>>>> Synset found: performance of duties or provision of space and equipment helpful to others
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the mayor tried to maintain city services
+>>>>>>>>> Found synonym services
+>>>>>> Synset found: work done by one person or group that benefits another
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: budget separately for goods and services
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: an act of help or assistance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he did them a service
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: the act of public worship following prescribed rules
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the Sunday service
+>>>>>>>>> Found synonym service
+>>>>>>>>> Found synonym religious_service
+>>>>>>>>> Found synonym divine_service
+>>>>>> Synset found: a company or agency that performs a public service; subject to government regulation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: employment in or work for another
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he retired after 30 years of service
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: a force that is a branch of the armed forces
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym military_service
+>>>>>>>>> Found synonym armed_service
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: Canadian writer (born in England) who wrote about life in the Yukon Territory (1874-1958)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym Service
+>>>>>>>>> Found synonym Robert_William_Service
+>>>>>> Synset found: a means of serving
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: of no avail
+>>>>>>>>> Found synonym avail
+>>>>>>>>> Found synonym help
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: tableware consisting of a complete set of articles (silver or dishware) for use at table
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym service
+>>>>>>>>> Found synonym table_service
+>>>>>> Synset found: the act of mating by male animals
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the bull was worth good money in servicing fees
+>>>>>>>>> Found synonym servicing
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: (law) the acts performed by an English feudal tenant for the benefit of his lord which formed the consideration for the property granted to him
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: (sports) a stroke that puts the ball in play
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: his powerful serves won the game
+>>>>>>>>> Found synonym serve
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: the act of delivering a writ or summons upon someone
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he accepted service of the subpoena
+>>>>>>>>> Found synonym service
+>>>>>>>>> Found synonym serving
+>>>>>>>>> Found synonym service_of_process
+>>>>>> Synset found: periodic maintenance on a car or machine
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: it was time for an overhaul on the tractor
+>>>>>>>>> Found synonym overhaul
+>>>>>>>>> Found synonym inspection_and_repair
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: the performance of duties by a waiter or servant
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: that restaurant has excellent service
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: be used by; as of a utility
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The sewage plant served the neighboring communities
+>>>>>>>>> Found synonym service
+>>>>>>>>> Found synonym serve
+>>>>>> Synset found: make fit for use
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: service my truck
+>>>>>>>>> Found synonym service
+>>>>>> Synset found: mate with
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: male animals serve the females for breeding purposes
+>>>>>>>>> Found synonym serve
+>>>>>>>>> Found synonym service
+>>>>>>>>>>> End of function getSynonym from services <<<<<<<<<<<< 
+
+>>> Getting Antonyms from services
+>>> List synsets for services
+>>>>>> Synset found: performance of duties or provision of space and equipment helpful to others
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: work done by one person or group that benefits another
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an act of help or assistance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym disservice
+>>>>>> Synset found: the act of public worship following prescribed rules
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a company or agency that performs a public service; subject to government regulation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: employment in or work for another
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a force that is a branch of the armed forces
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: Canadian writer (born in England) who wrote about life in the Yukon Territory (1874-1958)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a means of serving
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: tableware consisting of a complete set of articles (silver or dishware) for use at table
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the act of mating by male animals
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: (law) the acts performed by an English feudal tenant for the benefit of his lord which formed the consideration for the property granted to him
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: (sports) a stroke that puts the ball in play
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the act of delivering a writ or summons upon someone
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: periodic maintenance on a car or machine
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the performance of duties by a waiter or servant
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: be used by; as of a utility
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: make fit for use
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: mate with
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from instituitions
+>>> List synsets for instituitions
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from instituitions <<<<<<<<<<<< 
+
+>>> Getting Antonyms from instituitions
+>>> List synsets for instituitions
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from business model
+>>> List synsets for business model
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from business model <<<<<<<<<<<< 
+
+>>> Getting Antonyms from business model
+>>> List synsets for business model
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from credit
+>>> List synsets for credit
+>>>>>> Synset found: approval
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: give her recognition for trying
+>>>>>>>>> Found synonym recognition
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: money available for a client to borrow
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: an accounting entry acknowledging income or capital items
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit
+>>>>>>>>> Found synonym credit_entry
+>>>>>> Synset found: used in the phrase `to your credit' in order to indicate an achievement deserving praise; 
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: she already had several performances to her credit
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: arrangement for deferred payment for goods and services
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit
+>>>>>>>>> Found synonym deferred_payment
+>>>>>> Synset found: recognition by a college or university that a course of studies has been successfully completed; typically measured in semester hours
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit
+>>>>>>>>> Found synonym course_credit
+>>>>>> Synset found: a short note recognizing a source of information or of a quoted passage
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the student's essay failed to list several important citations
+>>>>>>>>> Found synonym citation
+>>>>>>>>> Found synonym cite
+>>>>>>>>> Found synonym acknowledgment
+>>>>>>>>> Found synonym credit
+>>>>>>>>> Found synonym reference
+>>>>>>>>> Found synonym mention
+>>>>>>>>> Found synonym quotation
+>>>>>> Synset found: an entry on a list of persons who contributed to a film or written work
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the credits were given at the end of the film
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit_rating
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: give someone credit for something
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: We credited her for saving our jobs
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: ascribe an achievement to
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: She was not properly credited in the program
+>>>>>>>>> Found synonym accredit
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: accounting: enter as credit
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: We credit your account with $100
+>>>>>>>>> Found synonym credit
+>>>>>> Synset found: have trust in; trust in the truth or veracity of
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym credit
+>>>>>>>>>>> End of function getSynonym from credit <<<<<<<<<<<< 
+
+>>> Getting Antonyms from credit
+>>> List synsets for credit
+>>>>>> Synset found: approval
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: money available for a client to borrow
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an accounting entry acknowledging income or capital items
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym debit
+There is no antonym for this synset
+>>>>>> Synset found: used in the phrase `to your credit' in order to indicate an achievement deserving praise; 
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: arrangement for deferred payment for goods and services
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym cash
+There is no antonym for this synset
+>>>>>> Synset found: recognition by a college or university that a course of studies has been successfully completed; typically measured in semester hours
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a short note recognizing a source of information or of a quoted passage
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: an entry on a list of persons who contributed to a film or written work
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: give someone credit for something
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: ascribe an achievement to
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: accounting: enter as credit
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym debit
+>>>>>> Synset found: have trust in; trust in the truth or veracity of
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from contracts
+>>> List synsets for contracts
+>>>>>> Synset found: a binding agreement between two or more persons that is enforceable by law
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym contract
+>>>>>> Synset found: (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym declaration
+>>>>>> Synset found: a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym contract_bridge
+>>>>>> Synset found: enter into a contractual arrangement
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym undertake
+>>>>>> Synset found: engage by written agreement
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: They signed two new pitchers for the next season
+>>>>>>>>> Found synonym sign
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym sign_on
+>>>>>>>>> Found synonym sign_up
+>>>>>> Synset found: squeeze or press together
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: she compressed her lips
+>>>>>>>>> Found synonym compress
+>>>>>>>>> Found synonym constrict
+>>>>>>>>> Found synonym squeeze
+>>>>>>>>> Found synonym compact
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym press
+>>>>>> Synset found: be stricken by an illness, fall victim to an illness
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: He got AIDS
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym take
+>>>>>>>>> Found synonym get
+>>>>>> Synset found: become smaller or draw together
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The fabric shrank
+>>>>>>>>> Found synonym shrink
+>>>>>>>>> Found synonym contract
+>>>>>> Synset found: make smaller
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The heat contracted the woollen garment
+>>>>>>>>> Found synonym contract
+>>>>>> Synset found: compress or concentrate
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Congress condensed the three-year plan into a six-month plan
+>>>>>>>>> Found synonym condense
+>>>>>>>>> Found synonym concentrate
+>>>>>>>>> Found synonym contract
+>>>>>> Synset found: make or become more narrow or restricted
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The selection was narrowed
+>>>>>>>>> Found synonym narrow
+>>>>>>>>> Found synonym contract
+>>>>>> Synset found: reduce in scope while retaining essential elements
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The manuscript must be shortened
+>>>>>>>>> Found synonym abridge
+>>>>>>>>> Found synonym foreshorten
+>>>>>>>>> Found synonym abbreviate
+>>>>>>>>> Found synonym shorten
+>>>>>>>>> Found synonym cut
+>>>>>>>>> Found synonym contract
+>>>>>>>>> Found synonym reduce
+>>>>>>>>>>> End of function getSynonym from contracts <<<<<<<<<<<< 
+
+>>> Getting Antonyms from contracts
+>>> List synsets for contracts
+>>>>>> Synset found: a binding agreement between two or more persons that is enforceable by law
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: enter into a contractual arrangement
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: engage by written agreement
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: squeeze or press together
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: be stricken by an illness, fall victim to an illness
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: become smaller or draw together
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym stretch
+>>>>>>>>> Found antonym expand
+>>>>>> Synset found: make smaller
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: compress or concentrate
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: make or become more narrow or restricted
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym widen
+There is no antonym for this synset
+>>>>>> Synset found: reduce in scope while retaining essential elements
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>>>>> Found antonym expand
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from credit contracts
+>>> List synsets for credit contracts
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from credit contracts <<<<<<<<<<<< 
+
+>>> Getting Antonyms from credit contracts
+>>> List synsets for credit contracts
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from investments
+>>> List synsets for investments
+>>>>>> Synset found: the act of investing; laying out money or capital in an enterprise with the expectation of profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym investing
+>>>>>>>>> Found synonym investment
+>>>>>> Synset found: money that is invested with an expectation of profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym investment
+>>>>>>>>> Found synonym investment_funds
+>>>>>> Synset found: the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: this job calls for the investment of some hard thinking
+>>>>>>>>> Found synonym investment
+>>>>>> Synset found: outer layer or covering of an organ or part or organism
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym investment
+>>>>>> Synset found: the act of putting on robes or vestments
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym investment
+>>>>>> Synset found: the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym investment
+>>>>>>>>> Found synonym investiture
+>>>>>>>>>>> End of function getSynonym from investments <<<<<<<<<<<< 
+
+>>> Getting Antonyms from investments
+>>> List synsets for investments
+>>>>>> Synset found: the act of investing; laying out money or capital in an enterprise with the expectation of profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: money that is invested with an expectation of profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: outer layer or covering of an organ or part or organism
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the act of putting on robes or vestments
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from loyalty points
+>>> List synsets for loyalty points
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from loyalty points <<<<<<<<<<<< 
+
+>>> Getting Antonyms from loyalty points
+>>> List synsets for loyalty points
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from peer-to-peer
+>>> List synsets for peer-to-peer
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from peer-to-peer <<<<<<<<<<<< 
+
+>>> Getting Antonyms from peer-to-peer
+>>> List synsets for peer-to-peer
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from crowdfunding
+>>> List synsets for crowdfunding
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from crowdfunding <<<<<<<<<<<< 
+
+>>> Getting Antonyms from crowdfunding
+>>> List synsets for crowdfunding
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from stock trading
+>>> List synsets for stock trading
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from stock trading <<<<<<<<<<<< 
+
+>>> Getting Antonyms from stock trading
+>>> List synsets for stock trading
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from stock
+>>> List synsets for stock
+>>>>>> Synset found: the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he owns a controlling share of the company's stock
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: the merchandise that a shop has on hand
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: they carried a vast inventory of hardware
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym inventory
+>>>>>> Synset found: the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the rifle had been fitted with a special stock
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym gunstock
+>>>>>> Synset found: a certificate documenting the shareholder's ownership in the corporation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the value of his stocks doubled during the past year
+>>>>>>>>> Found synonym stock_certificate
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: a supply of something available for future use
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he brought back a large store of Cuban cigars
+>>>>>>>>> Found synonym store
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym fund
+>>>>>> Synset found: the descendants of one individual
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: his entire lineage has been warriors
+>>>>>>>>> Found synonym lineage
+>>>>>>>>> Found synonym line
+>>>>>>>>> Found synonym line_of_descent
+>>>>>>>>> Found synonym descent
+>>>>>>>>> Found synonym bloodline
+>>>>>>>>> Found synonym blood_line
+>>>>>>>>> Found synonym blood
+>>>>>>>>> Found synonym pedigree
+>>>>>>>>> Found synonym ancestry
+>>>>>>>>> Found synonym origin
+>>>>>>>>> Found synonym parentage
+>>>>>>>>> Found synonym stemma
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: a special variety of domesticated animals within a species
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he experimented on a particular breed of white rats
+>>>>>>>>> Found synonym breed
+>>>>>>>>> Found synonym strain
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: she made gravy with a base of beef stock
+>>>>>>>>> Found synonym broth
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: the reputation and popularity a person has
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: his stock was so high he could have been elected mayor
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: persistent thickened stem of a herbaceous perennial plant
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym caudex
+>>>>>> Synset found: a plant or stem onto which a graft is made; especially a plant grown specifically to provide the root part of grafted plants
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: any of several Old World plants cultivated for their brightly colored flowers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym gillyflower
+>>>>>> Synset found: any of various ornamental flowering plants of the genus Malcolmia
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym Malcolm_stock
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: lumber used in the construction of something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: they will cut round stock to 1-inch diameter
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: the handle end of some implements or tools
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he grabbed the cue by the stock
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: an ornamental white cravat
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym neckcloth
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: any animals kept for use or profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym livestock
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym farm_animal
+>>>>>> Synset found: have on hand
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Do you carry kerosene heaters?
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym carry
+>>>>>>>>> Found synonym stockpile
+>>>>>> Synset found: equip with a stock
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: stock a rifle
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: supply with fish
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: stock a lake
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: supply with livestock
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: stock a farm
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: amass so as to keep for future use or sale or for a particular occasion or use
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: let's stock coffee as long as prices are low
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym buy_in
+>>>>>>>>> Found synonym stock_up
+>>>>>> Synset found: provide or furnish with a stock of something
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: stock the larder with meat
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: put forth and grow sprouts or shoots
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: the plant sprouted early this year
+>>>>>>>>> Found synonym sprout
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: repeated too often; overfamiliar through overuse
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: bromidic sermons
+>>>>>>>>> Found synonym banal
+>>>>>>>>> Found synonym commonplace
+>>>>>>>>> Found synonym hackneyed
+>>>>>>>>> Found synonym old-hat
+>>>>>>>>> Found synonym shopworn
+>>>>>>>>> Found synonym stock
+>>>>>>>>> Found synonym threadbare
+>>>>>>>>> Found synonym timeworn
+>>>>>>>>> Found synonym tired
+>>>>>>>>> Found synonym trite
+>>>>>>>>> Found synonym well-worn
+>>>>>> Synset found: routine
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: a stock answer
+>>>>>>>>> Found synonym stock
+>>>>>> Synset found: regularly and widely used or sold
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: a standard size
+>>>>>>>>> Found synonym standard
+>>>>>>>>> Found synonym stock
+>>>>>>>>>>> End of function getSynonym from stock <<<<<<<<<<<< 
+
+>>> Getting Antonyms from stock
+>>> List synsets for stock
+>>>>>> Synset found: the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the merchandise that a shop has on hand
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a certificate documenting the shareholder's ownership in the corporation
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a supply of something available for future use
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the descendants of one individual
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a special variety of domesticated animals within a species
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the reputation and popularity a person has
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: persistent thickened stem of a herbaceous perennial plant
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a plant or stem onto which a graft is made; especially a plant grown specifically to provide the root part of grafted plants
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: any of several Old World plants cultivated for their brightly colored flowers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: any of various ornamental flowering plants of the genus Malcolmia
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: lumber used in the construction of something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the handle end of some implements or tools
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an ornamental white cravat
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: any animals kept for use or profit
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: have on hand
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: equip with a stock
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: supply with fish
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: supply with livestock
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: amass so as to keep for future use or sale or for a particular occasion or use
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: provide or furnish with a stock of something
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: put forth and grow sprouts or shoots
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: repeated too often; overfamiliar through overuse
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: routine
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+>>>>>> Synset found: regularly and widely used or sold
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from trading
+>>> List synsets for trading
+>>>>>> Synset found: buying or selling securities or commodities
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym trading
+>>>>>> Synset found: engage in the trade of
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: he is merchandising telephone sets
+>>>>>>>>> Found synonym trade
+>>>>>>>>> Found synonym merchandise
+>>>>>> Synset found: turn in as payment or part payment for a purchase
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: trade in an old car for a new one
+>>>>>>>>> Found synonym trade
+>>>>>>>>> Found synonym trade_in
+>>>>>> Synset found: be traded at a certain price or under certain conditions
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The stock traded around $20 a share
+>>>>>>>>> Found synonym trade
+>>>>>> Synset found: exchange or give (something) in exchange for
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym trade
+>>>>>>>>> Found synonym swap
+>>>>>>>>> Found synonym swop
+>>>>>>>>> Found synonym switch
+>>>>>> Synset found: do business; offer for sale as for one's livelihood
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: She deals in gold
+>>>>>>>>> Found synonym deal
+>>>>>>>>> Found synonym sell
+>>>>>>>>> Found synonym trade
+>>>>>>>>>>> End of function getSynonym from trading <<<<<<<<<<<< 
+
+>>> Getting Antonyms from trading
+>>> List synsets for trading
+>>>>>> Synset found: buying or selling securities or commodities
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: engage in the trade of
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: turn in as payment or part payment for a purchase
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: be traded at a certain price or under certain conditions
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: exchange or give (something) in exchange for
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: do business; offer for sale as for one's livelihood
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from blockchain
+>>> List synsets for blockchain
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from blockchain <<<<<<<<<<<< 
+
+>>> Getting Antonyms from blockchain
+>>> List synsets for blockchain
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from wholesale
+>>> List synsets for wholesale
+>>>>>> Synset found: the selling of goods to merchants; usually in large quantities for resale to consumers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym wholesale
+>>>>>> Synset found: sell in large quantities
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym wholesale
+>>>>>> Synset found: ignoring distinctions
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: sweeping generalizations
+>>>>>>>>> Found synonym sweeping
+>>>>>>>>> Found synonym wholesale
+>>>>>> Synset found: at a wholesale price
+>>>>>>>>> Part of Speech: ADVERBIO
+>>>>>>>>> Example for this synset: I can sell it to you wholesale
+>>>>>>>>> Found synonym wholesale
+>>>>>> Synset found: on a large scale without careful discrimination
+>>>>>>>>> Part of Speech: ADVERBIO
+>>>>>>>>> Example for this synset: I buy food wholesale
+>>>>>>>>> Found synonym wholesale
+>>>>>>>>> Found synonym in_large_quantities
+>>>>>>>>>>> End of function getSynonym from wholesale <<<<<<<<<<<< 
+
+>>> Getting Antonyms from wholesale
+>>> List synsets for wholesale
+>>>>>> Synset found: the selling of goods to merchants; usually in large quantities for resale to consumers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym retail
+>>>>>> Synset found: sell in large quantities
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym retail
+>>>>>> Synset found: ignoring distinctions
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: at a wholesale price
+>>>>>>>>> Part of Speech: ADVERBIO
+>>>>>>>>> Found antonym retail
+>>>>>> Synset found: on a large scale without careful discrimination
+>>>>>>>>> Part of Speech: ADVERBIO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from payment
+>>> List synsets for payment
+>>>>>> Synset found: a sum of money paid or a claim discharged
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym payment
+>>>>>> Synset found: the act of paying money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym payment
+>>>>>>>>> Found synonym defrayal
+>>>>>>>>> Found synonym defrayment
+>>>>>> Synset found: an act of requiting; returning in kind
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym requital
+>>>>>>>>> Found synonym payment
+>>>>>>>>>>> End of function getSynonym from payment <<<<<<<<<<<< 
+
+>>> Getting Antonyms from payment
+>>> List synsets for payment
+>>>>>> Synset found: a sum of money paid or a claim discharged
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym nonpayment
+>>>>>> Synset found: the act of paying money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym nonpayment
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: an act of requiting; returning in kind
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from rent
+>>> List synsets for rent
+>>>>>> Synset found: a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym rent
+>>>>>> Synset found: an opening made forcibly as by pulling apart
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: there was a rip in his pants
+>>>>>>>>> Found synonym rip
+>>>>>>>>> Found synonym rent
+>>>>>>>>> Found synonym snag
+>>>>>>>>> Found synonym split
+>>>>>>>>> Found synonym tear
+>>>>>> Synset found: the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym economic_rent
+>>>>>>>>> Found synonym rent
+>>>>>> Synset found: the act of rending or ripping or splitting something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he gave the envelope a vigorous rip
+>>>>>>>>> Found synonym rent
+>>>>>>>>> Found synonym rip
+>>>>>>>>> Found synonym split
+>>>>>> Synset found: let for money
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: We rented our apartment to friends while we were abroad
+>>>>>>>>> Found synonym rent
+>>>>>>>>> Found synonym lease
+>>>>>> Synset found: grant use or occupation of under a term of contract
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: I am leasing my country estate to some foreigners
+>>>>>>>>> Found synonym lease
+>>>>>>>>> Found synonym let
+>>>>>>>>> Found synonym rent
+>>>>>> Synset found: engage for service under a term of contract
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: We took an apartment on a quiet street
+>>>>>>>>> Found synonym lease
+>>>>>>>>> Found synonym rent
+>>>>>>>>> Found synonym hire
+>>>>>>>>> Found synonym charter
+>>>>>>>>> Found synonym engage
+>>>>>>>>> Found synonym take
+>>>>>> Synset found: hold under a lease or rental agreement; of goods and services
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym rent
+>>>>>>>>> Found synonym hire
+>>>>>>>>> Found synonym charter
+>>>>>>>>> Found synonym lease
+>>>>>> Synset found: tear or be torn violently
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The curtain ripped from top to bottom
+>>>>>>>>> Found synonym rend
+>>>>>>>>> Found synonym rip
+>>>>>>>>> Found synonym rive
+>>>>>>>>> Found synonym pull
+>>>>>>>>>>> End of function getSynonym from rent <<<<<<<<<<<< 
+
+>>> Getting Antonyms from rent
+>>> List synsets for rent
+>>>>>> Synset found: a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an opening made forcibly as by pulling apart
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the act of rending or ripping or splitting something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: let for money
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: grant use or occupation of under a term of contract
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: engage for service under a term of contract
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: hold under a lease or rental agreement; of goods and services
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: tear or be torn violently
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from people
+>>> List synsets for people
+>>>>>> Synset found: (plural) any group of human beings (men or women or children) collectively
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: old people
+>>>>>>>>> Found synonym people
+>>>>>> Synset found: the body of citizens of a state or country
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the Spanish people
+>>>>>>>>> Found synonym citizenry
+>>>>>>>>> Found synonym people
+>>>>>> Synset found: members of a family line
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: his people have been farmers for generations
+>>>>>>>>> Found synonym people
+>>>>>> Synset found: the common people generally
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: separate the warriors from the mass
+>>>>>>>>> Found synonym multitude
+>>>>>>>>> Found synonym masses
+>>>>>>>>> Found synonym mass
+>>>>>>>>> Found synonym hoi_polloi
+>>>>>>>>> Found synonym people
+>>>>>>>>> Found synonym the_great_unwashed
+>>>>>> Synset found: fill with people
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Stalin wanted to people the empty steppes
+>>>>>>>>> Found synonym people
+>>>>>> Synset found: furnish with people
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: The plains are sparsely populated
+>>>>>>>>> Found synonym people
+>>>>>>>>>>> End of function getSynonym from people <<<<<<<<<<<< 
+
+>>> Getting Antonyms from people
+>>> List synsets for people
+>>>>>> Synset found: (plural) any group of human beings (men or women or children) collectively
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the body of citizens of a state or country
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: members of a family line
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the common people generally
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: fill with people
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: furnish with people
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from technology
+>>> List synsets for technology
+>>>>>> Synset found: the practical application of science to commerce or industry
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym technology
+>>>>>>>>> Found synonym engineering
+>>>>>> Synset found: the discipline dealing with the art or science of applying scientific knowledge to practical problems
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he had trouble deciding which branch of engineering to study
+>>>>>>>>> Found synonym engineering
+>>>>>>>>> Found synonym engineering_science
+>>>>>>>>> Found synonym applied_science
+>>>>>>>>> Found synonym technology
+>>>>>>>>>>> End of function getSynonym from technology <<<<<<<<<<<< 
+
+>>> Getting Antonyms from technology
+>>> List synsets for technology
+>>>>>> Synset found: the practical application of science to commerce or industry
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the discipline dealing with the art or science of applying scientific knowledge to practical problems
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from big data
+>>> List synsets for big data
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from big data <<<<<<<<<<<< 
+
+>>> Getting Antonyms from big data
+>>> List synsets for big data
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from social
+>>> List synsets for social
+>>>>>> Synset found: a party of people assembled to promote sociability and communal activity
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym sociable
+>>>>>>>>> Found synonym social
+>>>>>>>>> Found synonym mixer
+>>>>>> Synset found: relating to human society and its members
+>>>>>>>>> Part of Speech: ADJETIVO
+>>>>>>>>> Example for this synset: social institutions
+>>>>>>>>> Found synonym social
+>>>>>>>>> Found synonym societal
+>>>>>> Synset found: living together or enjoying life in communities or organized groups
+>>>>>>>>> Part of Speech: ADJETIVO
+>>>>>>>>> Example for this synset: a human being is a social animal
+>>>>>>>>> Found synonym social
+>>>>>> Synset found: relating to or belonging to or characteristic of high society
+>>>>>>>>> Part of Speech: ADJETIVO
+>>>>>>>>> Example for this synset: made fun of her being so social and high-toned
+>>>>>>>>> Found synonym social
+>>>>>> Synset found: composed of sociable people or formed for the purpose of sociability
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: a purely social club
+>>>>>>>>> Found synonym social
+>>>>>> Synset found: tending to move or live together in groups or colonies of the same kind
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: ants are social insects
+>>>>>>>>> Found synonym social
+>>>>>> Synset found: marked by friendly companionship with others
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: a social cup of coffee
+>>>>>>>>> Found synonym social
+>>>>>>>>>>> End of function getSynonym from social <<<<<<<<<<<< 
+
+>>> Getting Antonyms from social
+>>> List synsets for social
+>>>>>> Synset found: a party of people assembled to promote sociability and communal activity
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: relating to human society and its members
+>>>>>>>>> Part of Speech: ADJETIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: living together or enjoying life in communities or organized groups
+>>>>>>>>> Part of Speech: ADJETIVO
+>>>>>>>>> Found antonym unsocial
+>>>>>> Synset found: relating to or belonging to or characteristic of high society
+>>>>>>>>> Part of Speech: ADJETIVO
+There is no antonym for this synset
+>>>>>> Synset found: composed of sociable people or formed for the purpose of sociability
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+>>>>>> Synset found: tending to move or live together in groups or colonies of the same kind
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+>>>>>> Synset found: marked by friendly companionship with others
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from social computing
+>>> List synsets for social computing
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from social computing <<<<<<<<<<<< 
+
+>>> Getting Antonyms from social computing
+>>> List synsets for social computing
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from financial
+>>> List synsets for financial
+>>>>>> Synset found: involving financial matters
+>>>>>>>>> Part of Speech: ADJETIVO
+>>>>>>>>> Example for this synset: fiscal responsibility
+>>>>>>>>> Found synonym fiscal
+>>>>>>>>> Found synonym financial
+>>>>>>>>>>> End of function getSynonym from financial <<<<<<<<<<<< 
+
+>>> Getting Antonyms from financial
+>>> List synsets for financial
+>>>>>> Synset found: involving financial matters
+>>>>>>>>> Part of Speech: ADJETIVO
+There is no antonym for this synset
+>>>>>>>>> Found antonym nonfinancial
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from lending
+>>> List synsets for lending
+>>>>>> Synset found: disposing of money or property with the expectation that the same thing (or an equivalent) will be returned
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym lending
+>>>>>>>>> Found synonym loaning
+>>>>>> Synset found: bestow a quality on
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Her presence lends a certain cachet to the company
+>>>>>>>>> Found synonym lend
+>>>>>>>>> Found synonym impart
+>>>>>>>>> Found synonym bestow
+>>>>>>>>> Found synonym contribute
+>>>>>>>>> Found synonym add
+>>>>>>>>> Found synonym bring
+>>>>>> Synset found: give temporarily; let have for a limited time
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: I will lend you my car
+>>>>>>>>> Found synonym lend
+>>>>>>>>> Found synonym loan
+>>>>>> Synset found: have certain characteristics of qualities for something; be open or vulnerable to
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: This story would lend itself well to serialization on television
+>>>>>>>>> Found synonym lend
+>>>>>>>>>>> End of function getSynonym from lending <<<<<<<<<<<< 
+
+>>> Getting Antonyms from lending
+>>> List synsets for lending
+>>>>>> Synset found: disposing of money or property with the expectation that the same thing (or an equivalent) will be returned
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: bestow a quality on
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: give temporarily; let have for a limited time
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym borrow
+There is no antonym for this synset
+>>>>>> Synset found: have certain characteristics of qualities for something; be open or vulnerable to
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from insurance
+>>> List synsets for insurance
+>>>>>> Synset found: promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym insurance
+>>>>>> Synset found: written contract or certificate of insurance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: you should have read the small print on your policy
+>>>>>>>>> Found synonym policy
+>>>>>>>>> Found synonym insurance_policy
+>>>>>>>>> Found synonym insurance
+>>>>>> Synset found: protection against future loss
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym indemnity
+>>>>>>>>> Found synonym insurance
+>>>>>>>>>>> End of function getSynonym from insurance <<<<<<<<<<<< 
+
+>>> Getting Antonyms from insurance
+>>> List synsets for insurance
+>>>>>> Synset found: promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: written contract or certificate of insurance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: protection against future loss
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from capital
+>>> List synsets for capital
+>>>>>> Synset found: assets available for use in the production of further assets
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym capital
+>>>>>>>>> Found synonym working_capital
+>>>>>> Synset found: wealth in the form of money or property owned by a person or business and human resources of economic value
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym capital
+>>>>>> Synset found: a seat of government
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym capital
+>>>>>> Synset found: one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; capitals were kept in the upper half of the type case and so became known as upper-case letters"
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: printers once kept the type for capitals and for small letters in separate cases
+>>>>>>>>> Found synonym capital
+>>>>>>>>> Found synonym capital_letter
+>>>>>>>>> Found synonym uppercase
+>>>>>>>>> Found synonym upper-case_letter
+>>>>>>>>> Found synonym majuscule
+>>>>>> Synset found: a center that is associated more than any other with some activity or product
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the crime capital of Italy
+>>>>>>>>> Found synonym capital
+>>>>>> Synset found: the federal government of the United States
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym Capital
+>>>>>>>>> Found synonym Washington
+>>>>>> Synset found: a book written by Karl Marx (1867) describing his economic theories
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym Das_Kapital
+>>>>>>>>> Found synonym Capital
+>>>>>> Synset found: the upper part of a column that supports the entablature
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym capital
+>>>>>>>>> Found synonym chapiter
+>>>>>>>>> Found synonym cap
+>>>>>> Synset found: first-rate
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: a capital fellow
+>>>>>>>>> Found synonym capital
+>>>>>> Synset found: of primary importance
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: our capital concern was to avoid defeat
+>>>>>>>>> Found synonym capital
+>>>>>> Synset found: uppercase
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+>>>>>>>>> Example for this synset: capital A
+>>>>>>>>> Found synonym capital
+>>>>>>>>> Found synonym great
+>>>>>>>>> Found synonym majuscule
+>>>>>>>>>>> End of function getSynonym from capital <<<<<<<<<<<< 
+
+>>> Getting Antonyms from capital
+>>> List synsets for capital
+>>>>>> Synset found: assets available for use in the production of further assets
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: wealth in the form of money or property owned by a person or business and human resources of economic value
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a seat of government
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; capitals were kept in the upper half of the type case and so became known as upper-case letters"
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>>>>> Found antonym lowercase
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a center that is associated more than any other with some activity or product
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the federal government of the United States
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a book written by Karl Marx (1867) describing his economic theories
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: the upper part of a column that supports the entablature
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: first-rate
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+>>>>>> Synset found: of primary importance
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+>>>>>> Synset found: uppercase
+>>>>>>>>> Part of Speech: ADJETIVO SATELITE
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from NFC
+>>> List synsets for NFC
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from NFC <<<<<<<<<<<< 
+
+>>> Getting Antonyms from NFC
+>>> List synsets for NFC
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from transaction
+>>> List synsets for transaction
+>>>>>> Synset found: the act of transacting within or between groups (as carrying on commercial activities)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: no transactions are possible without him
+>>>>>>>>> Found synonym transaction
+>>>>>>>>> Found synonym dealing
+>>>>>>>>> Found synonym dealings
+>>>>>>>>>>> End of function getSynonym from transaction <<<<<<<<<<<< 
+
+>>> Getting Antonyms from transaction
+>>> List synsets for transaction
+>>>>>> Synset found: the act of transacting within or between groups (as carrying on commercial activities)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from payment transaction
+>>> List synsets for payment transaction
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from payment transaction <<<<<<<<<<<< 
+
+>>> Getting Antonyms from payment transaction
+>>> List synsets for payment transaction
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from Nubank
+>>> List synsets for Nubank
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from Nubank <<<<<<<<<<<< 
+
+>>> Getting Antonyms from Nubank
+>>> List synsets for Nubank
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from Citicorp
+>>> List synsets for Citicorp
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from Citicorp <<<<<<<<<<<< 
+
+>>> Getting Antonyms from Citicorp
+>>> List synsets for Citicorp
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from Apple
+>>> List synsets for Apple
+>>>>>> Synset found: fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym apple
+>>>>>> Synset found: native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym apple
+>>>>>>>>> Found synonym orchard_apple_tree
+>>>>>>>>> Found synonym Malus_pumila
+>>>>>>>>>>> End of function getSynonym from Apple <<<<<<<<<<<< 
+
+>>> Getting Antonyms from Apple
+>>> List synsets for Apple
+>>>>>> Synset found: fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from Fidor bank
+>>> List synsets for Fidor bank
+There is no synset for this word
+>>>>>>>>>>> End of function getSynonym from Fidor bank <<<<<<<<<<<< 
+
+>>> Getting Antonyms from Fidor bank
+>>> List synsets for Fidor bank
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from bank
+>>> List synsets for bank
+>>>>>> Synset found: sloping land (especially the slope beside a body of water)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: they pulled the canoe up on the bank
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: a financial institution that accepts deposits and channels the money into lending activities
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he cashed a check at the bank
+>>>>>>>>> Found synonym depository_financial_institution
+>>>>>>>>> Found synonym bank
+>>>>>>>>> Found synonym banking_concern
+>>>>>>>>> Found synonym banking_company
+>>>>>> Synset found: a long ridge or pile
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: a huge bank of earth
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: an arrangement of similar objects in a row or in tiers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he operated a bank of switches
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: a supply or stock held in reserve for future use (especially in emergencies)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: the funds held by a gambling house or the dealer in some gambling games
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he tried to break the bank at Monte Carlo
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym bank
+>>>>>>>>> Found synonym cant
+>>>>>>>>> Found synonym camber
+>>>>>> Synset found: a container (usually with a slot in the top) for keeping money at home
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the coin bank was empty
+>>>>>>>>> Found synonym savings_bank
+>>>>>>>>> Found synonym coin_bank
+>>>>>>>>> Found synonym money_box
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: a building in which the business of banking transacted
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the bank is on the corner of Nassau and Witherspoon
+>>>>>>>>> Found synonym bank
+>>>>>>>>> Found synonym bank_building
+>>>>>> Synset found: a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: the plane went into a steep bank
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: tip laterally
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: the pilot had to bank the aircraft
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: enclose with a bank
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: bank roads
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: do business with a bank or keep an account at a bank
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Where do you bank in this town?
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: act as the banker in a game or in gambling
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: be in the banking business
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: put into a bank account
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: She deposits her paycheck every month
+>>>>>>>>> Found synonym deposit
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: cover with ashes so to control the rate of burning
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: bank a fire
+>>>>>>>>> Found synonym bank
+>>>>>> Synset found: have confidence or faith in
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: We can trust in God
+>>>>>>>>> Found synonym trust
+>>>>>>>>> Found synonym swear
+>>>>>>>>> Found synonym rely
+>>>>>>>>> Found synonym bank
+>>>>>>>>>>> End of function getSynonym from bank <<<<<<<<<<<< 
+
+>>> Getting Antonyms from bank
+>>> List synsets for bank
+>>>>>> Synset found: sloping land (especially the slope beside a body of water)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a financial institution that accepts deposits and channels the money into lending activities
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a long ridge or pile
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an arrangement of similar objects in a row or in tiers
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a supply or stock held in reserve for future use (especially in emergencies)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: the funds held by a gambling house or the dealer in some gambling games
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a container (usually with a slot in the top) for keeping money at home
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a building in which the business of banking transacted
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: tip laterally
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: enclose with a bank
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: do business with a bank or keep an account at a bank
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: act as the banker in a game or in gambling
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: be in the banking business
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: put into a bank account
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym withdraw
+There is no antonym for this synset
+>>>>>> Synset found: cover with ashes so to control the rate of burning
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: have confidence or faith in
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym distrust
+>>>>>>>>> Found antonym mistrust
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from wallet
+>>> List synsets for wallet
+>>>>>> Synset found: a pocket-size case for holding papers and paper money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym wallet
+>>>>>>>>> Found synonym billfold
+>>>>>>>>> Found synonym notecase
+>>>>>>>>> Found synonym pocketbook
+>>>>>>>>>>> End of function getSynonym from wallet <<<<<<<<<<<< 
+
+>>> Getting Antonyms from wallet
+>>> List synsets for wallet
+>>>>>> Synset found: a pocket-size case for holding papers and paper money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from pay
+>>> List synsets for pay
+>>>>>> Synset found: something that remunerates
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: wages were paid by check
+>>>>>>>>> Found synonym wage
+>>>>>>>>> Found synonym pay
+>>>>>>>>> Found synonym earnings
+>>>>>>>>> Found synonym remuneration
+>>>>>>>>> Found synonym salary
+>>>>>> Synset found: give money, usually in exchange for goods or services
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: I paid four dollars for this sandwich
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: convey, as of a compliment, regards, attention, etc.; bestow
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Don't pay him any mind
+>>>>>>>>> Found synonym give
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: cancel or discharge a debt
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: pay up, please!
+>>>>>>>>> Found synonym pay_up
+>>>>>>>>> Found synonym ante_up
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: bring in
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: interest-bearing accounts
+>>>>>>>>> Found synonym yield
+>>>>>>>>> Found synonym pay
+>>>>>>>>> Found synonym bear
+>>>>>> Synset found: do or give something to somebody in return
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: Does she pay you for the work you are doing?
+>>>>>>>>> Found synonym pay
+>>>>>>>>> Found synonym pay_off
+>>>>>>>>> Found synonym make_up
+>>>>>>>>> Found synonym compensate
+>>>>>> Synset found: dedicate
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: give thought to
+>>>>>>>>> Found synonym give
+>>>>>>>>> Found synonym pay
+>>>>>>>>> Found synonym devote
+>>>>>> Synset found: be worth it
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: It pays to go through the trouble
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: render
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: pay a visit
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: bear (a cost or penalty), in recompense for some action
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: You'll pay for this!
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: make a compensation for
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: a favor that cannot be paid back
+>>>>>>>>> Found synonym pay
+>>>>>> Synset found: discharge or settle
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Example for this synset: pay a debt
+>>>>>>>>> Found synonym pay
+>>>>>>>>>>> End of function getSynonym from pay <<<<<<<<<<<< 
+
+>>> Getting Antonyms from pay
+>>> List synsets for pay
+>>>>>> Synset found: something that remunerates
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: give money, usually in exchange for goods or services
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: convey, as of a compliment, regards, attention, etc.; bestow
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: cancel or discharge a debt
+>>>>>>>>> Part of Speech: VERBO
+>>>>>>>>> Found antonym default
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: bring in
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: do or give something to somebody in return
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: dedicate
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: be worth it
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: render
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: bear (a cost or penalty), in recompense for some action
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: make a compensation for
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+>>>>>> Synset found: discharge or settle
+>>>>>>>>> Part of Speech: VERBO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from wealth
+>>> List synsets for wealth
+>>>>>> Synset found: the state of being rich and affluent; having a plentiful supply of material goods and money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: great wealth is not a sign of great intelligence
+>>>>>>>>> Found synonym wealth
+>>>>>>>>> Found synonym wealthiness
+>>>>>> Synset found: the quality of profuse abundance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: she has a wealth of talent
+>>>>>>>>> Found synonym wealth
+>>>>>> Synset found: an abundance of material possessions and resources
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym wealth
+>>>>>>>>> Found synonym riches
+>>>>>> Synset found: property that has economic utility: a monetary value or an exchange value
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym wealth
+>>>>>>>>>>> End of function getSynonym from wealth <<<<<<<<<<<< 
+
+>>> Getting Antonyms from wealth
+>>> List synsets for wealth
+>>>>>> Synset found: the state of being rich and affluent; having a plentiful supply of material goods and money
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Found antonym poverty
+There is no antonym for this synset
+>>>>>> Synset found: the quality of profuse abundance
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+>>>>>> Synset found: an abundance of material possessions and resources
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: property that has economic utility: a monetary value or an exchange value
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+
+>>> Getting Synonyms from management
+>>> List synsets for management
+>>>>>> Synset found: the act of managing something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> Example for this synset: he was given overall management of the program
+>>>>>>>>> Found synonym management
+>>>>>>>>> Found synonym direction
+>>>>>> Synset found: those in charge of running a business
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+>>>>>>>>> There is no example for this synset
+>>>>>>>>> Found synonym management
+>>>>>>>>>>> End of function getSynonym from management <<<<<<<<<<<< 
+
+>>> Getting Antonyms from management
+>>> List synsets for management
+>>>>>> Synset found: the act of managing something
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no antonym for this synset
+>>>>>> Synset found: those in charge of running a business
+>>>>>>>>> Part of Speech: SUBSTANTIVO
+There is no antonym for this synset
+There is no synset for this word
+>>>>>>>>>>> End of function getAntonym <<<<<<<<<<<< 
+

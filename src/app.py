@@ -2,7 +2,13 @@
 
 from useful_functions.functions import *
 PATH = 'data/words.txt'
+TARGET_PATH = 'data/results.txt'
 
+cleanResultsFile(TARGET_PATH)
 words = getWords(PATH)
-listSynonym = getSynonyms(words[0])
-listAntonym = getAntonyms(words[0])
+
+for word in words:
+    listSynonym = getSynonyms(word)
+    listAntonym = getAntonyms(word)
+    writeSynonyms(word)
+    writeAntonyms(word)
